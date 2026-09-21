@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org">
+<suite name="Toolshop Automation Suite">
+    <test name="Authentication Verification Profiles">
+        <classes>
+             <class name="Testingpackage.FilterproductTest" />
+        </classes>
+    </test>
+</suite>
